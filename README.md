@@ -21,7 +21,7 @@ Repo นี้ใช้สำหรับสอบปฏิบัติ GitHub 1
 
 | Name | Team | Role | Evidence File | Issue Link |
 |---|---|---|---|---|
-| ชิษณุพงศ์ แพลุกอินทร์ | Team 04 | Frontend | [evidence](https://github.com/wataroz/-Team-04-sprint3/tree/feature/flask-react/frontend) | - |
+| ชิษณุพงศ์ แพลุกอินทร์ | Team 04 | Frontend |(https://github.com/wataroz/-Team-04-sprint3/tree/feature/flask-react/frontend) | - |
 
 ---
 
